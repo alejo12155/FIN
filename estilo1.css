@@ -1,0 +1,157 @@
+.cuadro2{
+	position: absolute;
+	top: 150px;
+	left: 130px;
+	background: #CDD1CA;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: black;
+
+
+}
+
+
+.cuadro2:hover{
+	position: absolute;
+	top: 150px;
+	left: 130px;
+	background: #4B712F;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+.b1{
+	margin-top: -200px;
+	 margin-left: 150px;
+}
+.cuadro3{
+	display: none;
+}
+
+.cuadro4{
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: ;
+	background-image: url(natural.jpg);: 
+	border:solid black 2px;
+	width: 310px;
+	height: 312px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+
+
+
+.cuadro5{
+	position: relative;
+	top: 150px;
+	left: 130px;
+	background: #CDD1CA;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: black;
+
+}
+
+.cuadro5:hover{
+	position: relative;
+	top: 150px;
+	left: 130px;
+	background: #4B712F;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+}
+.b2{
+	margin-top: -500px;
+	 margin-left: 200px;
+}
+.cuadro6{
+	display: none;
+}
+
+.cuadro7{
+	display: block;
+	position: absolute;
+	top: 265px;
+	left: 660px;
+	background-image: url(nat.jpg);: 
+	border:solid black 2px;
+	width: 312px;
+	height: 312px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+.cuadro8{
+	position: relative;
+	top: 150px;
+	left: 130px;
+	background: #CDD1CA;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: black;
+
+
+}
+
+
+.cuadro8:hover{
+	position: relative;
+	top: 150px;
+	left: 130px;
+	background: #4B712F;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+}
+.b4{
+	margin-top: -100px;
+}
+.cuadro9{
+	display: none;
+}
+
+.cuadro10{
+	display: block;
+	position: absolute;
+	top: 925px;
+	left: 660px;
+	background-image: url(natu.jpg);
+	border:solid black 2px;
+	width: 312px;
+	height: 310px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
